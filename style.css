@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to top, #F2B138, #D9AE79);
+    background-attachment: fixed;
+    height: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
+
+main{
+
+
+}
+article{
+    border: 2px solid #f2c13085;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 2px 2px 6px #ad7f28ab;
+    background-color: #e6e1d8;
+    
+}
+
+p{
+    text-align: justify;
+    
+    
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #000000;
+    font-size: 2vw;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #000000;
+    font-size: 1.5vw;
+}
+
+
